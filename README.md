@@ -1,6 +1,6 @@
 <img src="https://oxford-management.com/wp-content/uploads/2023/03/Advanced-Data-Analysis-Techniques-768x360.jpg">
  
-# Hi there 👋 I'm KEshav Singh Rajput
+# Hi there 👋 I'm Keshav Singh Rajput
 
 I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.
 
